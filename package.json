@@ -1,0 +1,12 @@
+{
+  "name": "bplanmaster",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://cedric43-2718.github.io/ArtForClimateJustice"
+}
